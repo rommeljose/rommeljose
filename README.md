@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Alexa and Git
 - 💞️ I’m looking to collaborate on Processing
 - 📫 How to reach me: rommeljose@gmail.com
+- [Licencias](https://choosealicense.com/appendix/)
 
 <!---
 rommeljose/rommeljose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
