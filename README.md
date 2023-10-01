@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rommeljose
-- 👀 I’m interested in all ... (je je )
-- 🌱 I’m currently learning Alexa and Git
-- 💞️ I’m looking to collaborate on Processing
-- 📫 How to reach me: rommeljose@gmail.com
+- 👋 Hola, soy @rommeljose
+- 👀 Me interesa todo ... (je je)
+- 🌱 Actualmente estoy aprendiendo a programar para Alexa, Processing, Drone Tello, PIC, ARM, PreText y Git
+- 💞️ ¡¡ Amo la ciencia, tecnología y la historia !!
+- 📫 Cómo contactarme: rommeljose@gmail.com
 - [Licencias](https://choosealicense.com/appendix/)
 
 <!---
