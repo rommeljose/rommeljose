@@ -1,6 +1,7 @@
 - 👋 Hola, soy @rommeljose
 - 👀 Me interesa todo ... (je je)
-- 🌱 Actualmente estoy aprendiendo a programar para Alexa, Processing, Drone Tello, PIC, ARM, PreText y Git
+- Me gusta programar en: Perl, C,  Python, JavaScript, Processing.
+- 🌱 Actualmente estoy aprendiendo a programar para Alexa, Drone Tello, PIC, ARM, PreText y Git
 - 💞️ ¡¡ Amo la ciencia, tecnología y la historia !!
 - 📫 Cómo contactarme: rommeljose@gmail.com
 - [Licencias](https://choosealicense.com/appendix/)
